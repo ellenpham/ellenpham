@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="100"/>
   <h1> 
     Hi there 👋 I'm Ellen.
+    <br></br>
     <div id="badges">
       <a href="https://www.linkedin.com/in/ellen-my-pham/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,8 +15,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ellenpham/ellenpham/assets/126633021/7aafd235-b47e-404e-8074-97781e74bd3e">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ellenpham/ellenpham/assets/126633021/0655418e-b909-45d5-9c3b-6043bb589cd0">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ellenpham/ellenpham/assets/126633021/7aafd235-b47e-404e-8074-97781e74bd3e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ellenpham/ellenpham/assets/126633021/0655418e-b909-45d5-9c3b-6043bb589cd0">
     <img alt="My greeting image" src="https://github.com/ellenpham/ellenpham/assets/126633021/a9adc27e-03c5-402f-a5a7-895be55ccb3a" align="center">
   </picture>
 </div>
@@ -45,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
