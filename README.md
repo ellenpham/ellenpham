@@ -27,9 +27,11 @@
 
 :heart_decoration: I'm passionate about designing and developing websites and applications.
 
-:seedling: Previously a resourcing specialist, now embark on the new career journey in tech industry.
+:telescope: I am currently learning Python, SQL and JavaScript. 
 
-:zap: In my free time, I solve problems on Codewars or Leetcode and make videos. 
+:seedling: Previously a resourcing specialist, currently embarking on the new career journey in tech industry.
+
+:zap: In my free time, I solve problems on Codewars/Leetcode, edit videos or do some cooking.
 
 :mailbox: How to reach me <u>ellenpham1510@gmail.com</u>
 
