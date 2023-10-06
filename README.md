@@ -25,7 +25,7 @@
 
 :heart_decoration: I'm passionate about designing and developing websites and applications.
 
-:telescope: I am currently learning Python, SQL and JavaScript. 
+:telescope: I am currently learning JavaScript and ReactJS.
 
 :seedling: Previously a resourcing specialist, currently embarking on the new career journey in tech industry.
 
