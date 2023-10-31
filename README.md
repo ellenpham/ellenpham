@@ -25,11 +25,11 @@
 
 :heart_decoration: I'm passionate about designing and developing websites and applications.
 
-:telescope: I am currently learning JavaScript and ReactJS.
+:telescope: I am currently learning MERN stack. 
 
 :seedling: Previously a resourcing specialist, currently embarking on the new career journey in tech industry.
 
-:zap: In my free time, I solve problems on Codewars/Leetcode, edit videos or do some cooking.
+:zap: In my free time, I solve problems on Leetcode, read books, or do some cooking.
 
 :mailbox: How to reach me <u>ellenpham1510@gmail.com</u>
 
