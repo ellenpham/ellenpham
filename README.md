@@ -35,6 +35,18 @@
 
 ---
 
+### :gem: My Values
+
+:dart: Integrity and Perseverance
+
+:purple_heart: Dedication and Trust
+
+:green_apple: Beginner's mindset and Curiosity
+
+:raised_hands: Shared understanding and Consensus
+
+---
+
 ### :computer: Tech Stack 
 <ol>
   <li>
