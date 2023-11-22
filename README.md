@@ -15,7 +15,7 @@
 
 :heart_decoration: I'm passionate about designing and developing websites and applications.
 
-:telescope: I am currently learning ReactJS and MongoDB.
+:telescope: I am currently working on a full-stack application as part of Coder Academy group project. See my progress [here](https://github.com/irene2mana-T3A2-2023).
 
 :seedling: Previously a resourcing specialist, currently embarking on the new career journey in tech industry.
 
