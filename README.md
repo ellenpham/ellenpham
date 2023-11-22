@@ -98,7 +98,7 @@ Learning soon: <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=
 ---
 ### :fire: My Stats
 
-<span>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ellenpham&theme=omni)](https://git.io/streak-stats)</span>&nbsp;&nbsp;&nbsp;<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellenpham&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)</span>
+<span>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ellenpham&theme=omni)](https://git.io/streak-stats)</span>&nbsp;<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellenpham&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 <!---
 ellenpham/ellenpham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
