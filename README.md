@@ -48,6 +48,7 @@
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS3" height="22"/>
             <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" height="22"/>
             <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" height="22"/>
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"  title="Tailwind" alt="Tailwind" height="22"/>
           </th>
           <td>Graphic Design</th>
           <td>
@@ -93,7 +94,8 @@
     </tbody>
 </table>
 
-Learning soon: <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"  title="Tailwind" alt="Tailwind" height="22"/>
+Learning soon: <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  title="Redux" alt="Redux" height="22"/> 
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"  title="NextJS" alt="NextJS" height="22"/>
 
 ---
 ### :fire: My Stats
